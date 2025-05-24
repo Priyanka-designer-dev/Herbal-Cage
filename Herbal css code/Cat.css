@@ -1,0 +1,23 @@
+:root {
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.categories-1 {
+  position: absolute;
+  left: -2927px;
+  top: -10031px;
+  width: 1728px;
+  height: 1117px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,41 @@
+:root {
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.component-3-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1728px;
+  height: 1117px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 100%;
+  height: auto;
+}
+
+.component-8-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1728px;
+  height: 1117px;
+}
+
+.home-1 {
+  position: absolute;
+  left: -7012px;
+  top: -10030px;
+  width: 1728px;
+  height: 1117px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 1);
+}
